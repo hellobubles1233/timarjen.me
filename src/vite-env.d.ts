@@ -1,0 +1,3 @@
+/// <reference types="vite/client" />
+VITE_SUPABASE_URL=https://zlcotgmwmlqrpqdregos.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpsY290Z213bWxxcnBxZHJlZ29zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzgzOTY4MTEsImV4cCI6MjA1Mzk3MjgxMX0.Be_-T5Rn8wlMgDlF6hsFoRgTeCPV2JQPeJMWC7_NwIY
